@@ -10,7 +10,7 @@ updates:
       time: "10:05" 
     open-pull-requests-limit: 10
 
-      - package-ecosystem: npm
+  - package-ecosystem: npm
     directory: /
     target-branch: master
     schedule:
