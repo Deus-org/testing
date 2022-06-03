@@ -7,13 +7,6 @@ updates:
     target-branch: deps/npm
     schedule:
       interval: daily
-      time: "10:05" 
+      time: "10:20" 
     open-pull-requests-limit: 10
 
-  - package-ecosystem: npm
-    directory: /
-    target-branch: master
-    schedule:
-      interval: daily
-      time: "10:05" 
-    open-pull-requests-limit: 10
