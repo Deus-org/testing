@@ -6,5 +6,5 @@ updates:
     directory: /
     target-branch: deps/npm
     schedule:
-      interval: daily
+      interval: minute
     open-pull-requests-limit: 5
