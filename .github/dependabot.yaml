@@ -7,6 +7,5 @@ updates:
     target-branch: deps/npm
     schedule:
       interval: daily
-      time: "10:20" 
     open-pull-requests-limit: 10
 
