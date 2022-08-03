@@ -20,7 +20,7 @@ jobs:
         with:
           merge_type: squash
           create_aggregated_branches_if_missed: true
-          fetch_depth: 9
+          fetch_depth: 3
       - name: View Git
         run: |
           git log --graph --all
