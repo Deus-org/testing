@@ -23,4 +23,4 @@ jobs:
           fetch_depth: 9
       - name: View Git
         run: |
-          git log --graph --pretty=oneline --all
+          git log --graph --all
